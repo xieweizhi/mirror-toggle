@@ -42,3 +42,7 @@ Source is included. With Apple command line developer tools installed, run `zsh 
 The self-test checks saved-layout matching and persistence. Diagnostics report connected monitors without changing the display configuration.
 
 Live mirror switching must be checked on your monitors; diagnostics and self-tests do not prove that the display driver will accept a change.
+
+## License
+
+[MIT License](LICENSE) — Copyright (c) 2026 xieweizhi.
